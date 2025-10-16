@@ -8,45 +8,6 @@ at www.gutenberg.org. If you are not located in the United States,
 you will have to check the laws of the country where you are located
 before using this eBook.
 
-Title: Democracy in America - Volume 1
-
-Author: Alexis de Tocqueville
-
-Translator: Henry Reeve
-
-Release date: January 21, 2006 [eBook #815]
-                Most recently updated: June 11, 2024
-
-Language: English
-
-Credits: David Reed and David Widger
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK DEMOCRACY IN AMERICA - VOLUME 1 ***
-
-
-
-
-DEMOCRACY IN AMERICA
-
-By Alexis De Tocqueville
-
-AVOCAT À LA COUR ROYALE DE PARIS
-ETC., ETC.
-
-Translated by
-Henry Reeve, Esq.
-
-IN TWO VOLUMES.
-VOL. I.
-
-LONDON:
-SAUNDERS AND OTLEY, CONDUIT STREET
-1835
-
-
-Contents
-
  Book One
  Introductory Chapter
  Chapter I: Exterior Form Of North America
@@ -19569,7 +19530,7 @@ unless you comply with paragraph 1.E.8 or 1.E.9.
 access to or distributing Project Gutenberg(tm) electronic works
 provided that:
 
-    • You pay a royalty fee of 20% of the gross profits you derive from
+    ï¿½ You pay a royalty fee of 20% of the gross profits you derive from
         the use of Project Gutenberg(tm) works calculated using the method
         you already use to calculate your applicable taxes. The fee is owed
         to the owner of the Project Gutenberg(tm) trademark, but he has
@@ -19582,7 +19543,7 @@ provided that:
         Section 4, "Information about donations to the Project Gutenberg
         Literary Archive Foundation."
     
-    • You provide a full refund of any money paid by a user who notifies
+    ï¿½ You provide a full refund of any money paid by a user who notifies
         you in writing (or by e-mail) within 30 days of receipt that s/he
         does not agree to the terms of the full Project Gutenberg(tm)
         License. You must require such a user to return or destroy all
@@ -19590,12 +19551,12 @@ provided that:
         all use of and all access to other copies of Project Gutenberg(tm)
         works.
     
-    • You provide, in accordance with paragraph 1.F.3, a full refund of
+    ï¿½ You provide, in accordance with paragraph 1.F.3, a full refund of
         any money paid for a work or a replacement copy, if a defect in the
         electronic work is discovered and reported to you within 90 days of
         receipt of the work.
     
-    • You comply with all other terms of this agreement for free
+    ï¿½ You comply with all other terms of this agreement for free
         distribution of Project Gutenberg(tm) works.
     
 
