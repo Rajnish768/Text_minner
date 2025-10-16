@@ -1,0 +1,35 @@
+//Positive
+I love the new design of this website.
+The performance of the application is amazing.
+She is doing an excellent job in her project.
+This product exceeded my expectations.
+The weather today is wonderful and refreshing.
+He handled the problem very efficiently.
+I am very happy with the results.
+The interface looks clean and user-friendly.
+Everything worked perfectly without any error.
+It was a delightful experience overall.
+
+//negative
+The app crashes every time I open it.
+I am disappointed with the service.
+The response time is too slow.
+This product is a complete waste of money.
+The instructions are confusing and unclear.
+The website layout looks terrible on mobile.
+I hate the new update; it made things worse.
+Nothing seems to work properly.
+The performance is poor and inconsistent.
+The support team did not help at all.
+
+// Neutral Sentences
+The meeting is scheduled for tomorrow.
+I have a class at 10 AM.
+The file was uploaded successfully.
+He lives in Delhi.
+Please check the document before submitting.
+The laptop is on the table
+The project deadline is next Monday.
+The user logged in to the system.
+She is reading a book.
+The test started at the usual time.
